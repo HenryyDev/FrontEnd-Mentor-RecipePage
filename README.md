@@ -31,4 +31,4 @@ Durante o desenvolvimento desta solução, pratiquei:
 
 - **HTML5**: Estrutura semântica e otimizada para SEO.
 - **CSS3**: Estilização moderna com animações e layout responsivo.
-- **JavaScript** *(opcional)*: Para funcionalidade extra, se necessário.
+
