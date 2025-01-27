@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe Page Solution
 
-Este é um projeto de solução para o desafio [Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-FOGBrOYR) da Frontend Mentor. O objetivo é recriar uma página de receitas responsiva e visualmente agradável, aplicando boas práticas de HTML, CSS e JavaScript.
+Este é um projeto de solução para o desafio [Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-FOGBrOYR) da Frontend Mentor. O objetivo é recriar uma página de receitas responsiva e visualmente agradável, aplicando boas práticas de HTML, CSS
 
 ## 🖥️ Visão Geral
 
@@ -15,7 +15,7 @@ O desafio é construir uma página de receitas a partir do design fornecido e ga
 ### 💡 O que eu aprendi
 
 Durante o desenvolvimento desta solução, pratiquei:
-- Construção de layouts fluidos com **Flexbox** e/ou **CSS Grid**.
+- Construção de layouts fluidos com **Flexbox** 
 - Uso de **media queries** para responsividade.
 - Estilização moderna com **CSS** 
 
