@@ -110,7 +110,7 @@ body {
 }
 .Nutrition {
   list-style-type: none;
-  padding-left: 40px;
+
   p {
     margin-bottom: 20px;
   }
@@ -192,7 +192,8 @@ body {
 
   .Preparation-time,
   .Ingredients,
-  .Instructions {
+  .Instructions,
+  .Nutrition {
     padding: 8px;
   }
 
