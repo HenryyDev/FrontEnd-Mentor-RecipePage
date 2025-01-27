@@ -36,7 +36,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--Rose-50);
+  background-color: var(--Stone-100);
 }
 
 .container {
@@ -94,7 +94,7 @@ body {
 }
 .Instructions {
   border-bottom: 1px solid var(--Stone-100);
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 40px;
   li {
     margin: 10px 0px 10px 20px;
